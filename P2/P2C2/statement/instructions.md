@@ -25,3 +25,7 @@ Last chapter classes descriptions :
 | **Behaviour**<br>display() | **Behaviour**<br><br> |
 
 
+| Thread                   |
+| ---------------------- | 
+| **State**<br>title<br>time_posted<br>posts |
+| **Behaviour**<br>display()<br>add_post(post) |
