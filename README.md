@@ -17,7 +17,14 @@ A folder for the exercise solution.
 - [Statement](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P1/P1C4/statement)
 - [Solution](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P1/P1C4/solution)
 
-### P1C5
+## Exercises P2
 
-- [Statement](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P1/P1C5/statement)
-- [Solution](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P1/P1C5/solution)
+### P2C2
+
+- [Statement](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P2/P2C2/statement)
+- [Solution](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P2/P2C2/solution)
+
+### P2C3
+
+- [Statement](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P2/P2C3/statement)
+- [Solution](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P2/P2C3/solution)
