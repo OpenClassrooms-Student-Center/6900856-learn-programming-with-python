@@ -9,6 +9,11 @@ A folder for the exercise solution.
 
 ### P1C3
 
+- [Statement](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P1/P1C2/statement)
+- [Solution](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P1/P1C2/solution)
+
+### P1C3
+
 - [Statement](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P1/P1C3/statement)
 - [Solution](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P1/P1C3/solution)
 
