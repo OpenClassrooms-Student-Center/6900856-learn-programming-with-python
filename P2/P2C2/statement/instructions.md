@@ -1,4 +1,4 @@
-## Instructions  
+# Instructions  
 In your development environment, write a class definition for each of those classes (using subclasses where relevant).
 
 Assume that, for now, you’re just printing a post’s content to the terminal. We’ll deal with displaying threads later, so just use  `pass`  for that method for now.
