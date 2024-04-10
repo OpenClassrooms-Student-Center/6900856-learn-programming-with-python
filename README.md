@@ -45,3 +45,8 @@ A folder for the exercise solution.
 
 - [Statement](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P3/P3C1/statement)
 - [Solution](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P3/P3C1/solution)
+
+### P3C3
+
+- [Statement](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P3/P3C3/statement)
+- [Solution](https://github.com/OpenClassrooms-Student-Center/6900856-learn-programming-with-python/tree/main/P3/P3C3/solution)
