@@ -1,82 +1,18 @@
 # Instructions
 
-In the last chapter, you wrote classes based on the toolbox example - now it’s time to use them.
+In your own development environment, write three classes, one for each of the classes you identified and planned in the last chapter’s exercise.
+
+You won’t know how to implement some of the methods yet, and that’s OK; just leave the method body empty. In Python, you can do this with the keyword “pass,” like this:
 
 ```
-class Toolbox:
-    def __init__(self):
-        self.tools = []
-
-    def add_tool(self, tool):
-        self.tools.append(tool)
-
-    def remove_tool(tool):
-        self.tools.remove(tool)
-
-class Screwdriver:
-    def __init__(self, size):
-        self.size = size
-
-    def tighten(self, screw):
-        pass
-
-    def loosen(self, screw):
-        pass
-
-class Hammer:
-    def __init__(self, color):
-        self.color = color
-
-    def paint(self, color):
-        self.color = color
-
-    def hammer_in(self, nail):
-        pass
-
-    def remove(self, nail):
-        pass
-```
-Copy these Screw and Nail classes into your project:
-
-```
-class Screw:
-   MAX_TIGHTNESS = 5
-
-   def __init__(self):
-      self.tightness = 0
-
-   def loosen(self):
-      if (self.tightness > 0):
-         self.tightness -= 1
-
-   def tighten(self):
-      if (self.tightness < self.MAX_TIGHTNESS):
-         self.tightness += 1
-
-   def __str__(self):
-      return "Screw with tightness {}".format(self.tightness)
-
-
-
-class Nail:
-   def __init__(self):
-      self.in_wall = False
-
-   def nail_in(self):
-      if (not self.in_wall):
-         self.in_wall = True
-
-   def remove(self):
-      if (self.in_wall):
-         self.in_wall = False
-
-   def __str__(self):
-      return "Nail {}in wall.".format("" if self.in_wall else "not ") 
+def method_stub(self, length):
+   pass
 ```
 
-**Make doing the following things:**
-1. Instantiate a toolbox, a screwdriver, and a hammer.
-2. Put the hammer and screwdriver in the toolbox.
-3. Instantiate a screw, and tighten it using the screwdriver. Print the screw before and after it's been tightened. (You will need to define both methods of the screwdriver class, it's currently define by `pass`).
-4. Instantiate a nail, then hammer it in using the hammer. Print the nail before and after it’s been hammered in. (You will need to define both methods of the screwdriver class, it's currently define by `pass`).
+## Reminder : 
 
+The three classes that you need to create : 
+
+1. I have a toolbox. That toolbox can contain some tools, and I can add or remove tools from the toolbox.
+2. My toolbox can contain hammers. Hammers come in various colors and can be used to hammer in and remove nails. I can also change the color of the hammer by painting it.
+3. My toolbox can contain screwdrivers. They come in sizes (measured in millimeters) and can be used to tighten or loosen a screw.
